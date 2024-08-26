@@ -11,16 +11,16 @@ This project is a comprehensive data analysis of an online retail dataset. The m
 ## Visualizations
 
 ### 🥇 Top 10 Best Selling Products
-![Top 10 Best Selling Products](./Images/top_10_best_selling_products.png)
+![Top 10 Best Selling Products](./Imagenes/top_10_productos_mas_vendidos.png)
 
 ### 💰 Total Sales by Country
-![Total Sales by Country](./Images/total_sales_by_county.png)
+![Total Sales by Country](./Imagenes/total_sales_by_county.png)
 
 ### 📅 Sales by Month
-![Sales by Month](./Images/sales_generated_per_month.png)
+![Sales by Month](./Imagenes/ventas_generadas_por_mes.png)
 
 ### 📈 Monthly Sales (Trend)
-![Monthly Sales](./Images/monthly_sales.png)
+![Monthly Sales](./Imagenes/ventas_mensuales.png)
 
 
 ## 📔 Google Colab Notebook
