@@ -9,6 +9,21 @@ This project is a comprehensive data analysis of an online retail dataset. The m
 - **📊Data Visualization**: Effective use of graphs and charts to communicate findings clearly.
 - **📑Reporting**: Summarized insights presented in a structured format, easily interpretable by non-technical stakeholders.
 
+## Visualizaciones
+
+### 🥇 Top 10 Productos Más Vendidos
+![Top 10 Productos Más Vendidos](./Imagenes/top_10_productos_mas_vendidos.png)
+
+### 💰 Ventas Totales por País
+![Ventas Totales por País](./Imagenes/total_sales_by_country.png)
+
+### 📅 Ventas por Mes
+![Ventas por Mes](./Imagenes/ventas_generadas_por_mes.png)
+
+### 📈 Ventas Mensuales (Tendencia)
+![Ventas Mensuales](./Imagenes/ventas_mensuales.png)
+
+
 ## 📔 Google Colab Notebook
 For an interactive experience, you can access the notebook directly on Google Colab using the following link:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AukJXlW67UbIDwfu91Txu8e2c2b6pdgo?usp=sharing)
