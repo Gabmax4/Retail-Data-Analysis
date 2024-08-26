@@ -11,7 +11,8 @@ This project is a comprehensive data analysis of an online retail dataset. The m
 
 ## 📔 Google Colab Notebook
 For an interactive experience, you can access the notebook directly on Google Colab using the following link:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1AukJXlW67UbIDwfu91Txu8e2c2b6pdgo?usp=sharing])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AukJXlW67UbIDwfu91Txu8e2c2b6pdgo?usp=sharing)
+
 
 ## 📁 Project Structure
 - **📓 Retail-Data-Analysis.ipynb**: The main Jupyter Notebook containing the entire analysis, from data cleaning to visualization.
@@ -33,7 +34,7 @@ To replicate this project on your local machine, follow these steps:
 4. Open the Jupyter Notebook:
     ```bash
     jupyter notebook Retail-Data-Analysis.ipynb
-    
+
 #### 📈 Insights
 - **🌍 Total Sales by Country**: Visualized to identify the most profitable markets.
 - **🏆 Top Selling Products**: Analyzed to understand customer preferences.
