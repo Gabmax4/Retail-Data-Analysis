@@ -8,20 +8,19 @@ This project is a comprehensive data analysis of an online retail dataset. The m
 - **🔍Exploratory Data Analysis (EDA)**: Detailed analysis to uncover patterns, trends, and relationships within the data.
 - **📊Data Visualization**: Effective use of graphs and charts to communicate findings clearly.
 - **📑Reporting**: Summarized insights presented in a structured format, easily interpretable by non-technical stakeholders.
+## Visualizations
 
-## Visualizaciones
+### 🥇 Top 10 Best Selling Products
+![Top 10 Best Selling Products](./Images/top_10_best_selling_products.png)
 
-### 🥇 Top 10 Productos Más Vendidos
-![Top 10 Productos Más Vendidos](./Imagenes/top_10_productos_mas_vendidos.png)
+### 💰 Total Sales by Country
+![Total Sales by Country](./Images/total_sales_by_county.png)
 
-### 💰 Ventas Totales por País
-![Ventas Totales por País](./Imagenes/total_sales_by_country.png)
+### 📅 Sales by Month
+![Sales by Month](./Images/sales_generated_per_month.png)
 
-### 📅 Ventas por Mes
-![Ventas por Mes](./Imagenes/ventas_generadas_por_mes.png)
-
-### 📈 Ventas Mensuales (Tendencia)
-![Ventas Mensuales](./Imagenes/ventas_mensuales.png)
+### 📈 Monthly Sales (Trend)
+![Monthly Sales](./Images/monthly_sales.png)
 
 
 ## 📔 Google Colab Notebook
